@@ -34,7 +34,7 @@ void Hogwarts(const char* hechizo) {
         }
     }
 
-    std::cout << "El hechizo '" << hechizo << "' tiene " << vocales << " vocales y " << consonantes << " consonantes." << std::endl;
+    cout << "El hechizo '" << hechizo << "' tiene " << vocales << " vocales y " << consonantes << " consonantes." << endl;
 }
 
 int main() {
